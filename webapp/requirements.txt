@@ -1,0 +1,6 @@
+# tested versions
+streamlit==1.61.1
+SQLAlchemy==2.0.52
+numpy>=1.26
+# the recommender (from the repository root):  pip install -e ../recommender
+# tests:  pip install pytest

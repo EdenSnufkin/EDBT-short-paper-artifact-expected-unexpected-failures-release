@@ -85,6 +85,11 @@ class LearningSession:
     def is_done(self) -> bool:
         return len(self.batches) >= self.n_batches or self.mastery >= self.stop_mastery
 
+    @property
+    def pending(self) -> tuple[int | None, str] | None:
+        """``(bandit arm index or None, hill-climbing variant)`` of the batch waiting for answers, if any."""
+        return None if self._pending is None else (self._pending[1], self._pending[2])
+
     # ------------------------------------------------------------------ one answer
     def record_answer(self, question: Question, correct: bool, phase: str = "learning", batch_index: int | None = None) -> AnswerRecord:
         """Process one answer: update the learner model and the failure scores (also used to replay logged answers)."""

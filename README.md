@@ -33,6 +33,7 @@ figures/                        the 8 figures of the paper (PNG + PDF), as produ
 data/                           anonymised study data (two SQLite databases), see below
 src/                            the analysis modules the notebook imports
 recommender/                    clean, tested implementation of the recommender used in the study (see recommender/README.md)
+webapp/                         the Streamlit application of the study, on top of the recommender (see webapp/README.md)
 tools/run_notebook.py           executes the notebook headlessly
 tools/anonymize_data.py         how the released data were derived from the private study databases
 requirements.txt                tested package versions

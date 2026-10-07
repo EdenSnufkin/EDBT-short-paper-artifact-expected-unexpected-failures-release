@@ -1,0 +1,1012 @@
+{
+ "questions": [
+  {
+   "id": "1",
+   "question": "Compute $3 \\times 3$.",
+   "difficulty": 0.0,
+   "options": [
+    "$12$",
+    "$9$",
+    "$11$",
+    "$7$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "2",
+   "question": "Solve $2x + 1 = 5$ for $x$.",
+   "difficulty": 0.0,
+   "options": [
+    "$5$",
+    "$-1$",
+    "$0$",
+    "$2$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "3",
+   "question": "What is the derivative of $f(x) = 3x^2 + 5x$ evaluated at $x = 2$?",
+   "difficulty": 0.0,
+   "options": [
+    "$17$",
+    "$13$",
+    "$14$",
+    "$20$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "4",
+   "question": "Compute the determinant of $\\begin{pmatrix} 1 & 3 \\\\ 1 & 1 \\end{pmatrix}$.",
+   "difficulty": 0.0,
+   "options": [
+    "$-2$",
+    "$1$",
+    "$0$",
+    "$-5$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "5",
+   "question": "Compute $2 \\times 3$.",
+   "difficulty": 0.05,
+   "options": [
+    "$7$",
+    "$5$",
+    "$3$",
+    "$6$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "6",
+   "question": "Solve $3x + 5 = 8$ for $x$.",
+   "difficulty": 0.05,
+   "options": [
+    "$4$",
+    "$-2$",
+    "$3$",
+    "$1$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "7",
+   "question": "What is the derivative of $f(x) = 3x^2 + 5x$ evaluated at $x = 2$?",
+   "difficulty": 0.05,
+   "options": [
+    "$16$",
+    "$17$",
+    "$14$",
+    "$15$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "8",
+   "question": "Compute the determinant of $\\begin{pmatrix} 1 & 3 \\\\ 1 & 1 \\end{pmatrix}$.",
+   "difficulty": 0.05,
+   "options": [
+    "$-2$",
+    "$-3$",
+    "$0$",
+    "$1$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "9",
+   "question": "Compute $2 \\times 4$.",
+   "difficulty": 0.1,
+   "options": [
+    "$6$",
+    "$9$",
+    "$8$",
+    "$7$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "10",
+   "question": "Solve $2x + 3 = 9$ for $x$.",
+   "difficulty": 0.1,
+   "options": [
+    "$4$",
+    "$3$",
+    "$2$",
+    "$0$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "11",
+   "question": "What is the derivative of $f(x) = 3x^2 + 1x$ evaluated at $x = 2$?",
+   "difficulty": 0.1,
+   "options": [
+    "$14$",
+    "$13$",
+    "$12$",
+    "$10$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "12",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 2 \\\\ 1 & 1 \\end{pmatrix}$.",
+   "difficulty": 0.1,
+   "options": [
+    "$5$",
+    "$0$",
+    "$1$",
+    "$2$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "13",
+   "question": "Compute $4 \\times 5$.",
+   "difficulty": 0.15,
+   "options": [
+    "$20$",
+    "$19$",
+    "$21$",
+    "$16$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "14",
+   "question": "Solve $3x + 3 = 21$ for $x$.",
+   "difficulty": 0.15,
+   "options": [
+    "$5$",
+    "$6$",
+    "$7$",
+    "$9$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "15",
+   "question": "What is the derivative of $f(x) = 2x^2 + 8x$ evaluated at $x = 2$?",
+   "difficulty": 0.15,
+   "options": [
+    "$19$",
+    "$20$",
+    "$18$",
+    "$16$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "16",
+   "question": "Compute the determinant of $\\begin{pmatrix} 3 & 1 \\\\ 3 & 2 \\end{pmatrix}$.",
+   "difficulty": 0.15,
+   "options": [
+    "$3$",
+    "$6$",
+    "$0$",
+    "$1$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "17",
+   "question": "Compute $8 \\times 7$.",
+   "difficulty": 0.2,
+   "options": [
+    "$56$",
+    "$55$",
+    "$52$",
+    "$50$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "18",
+   "question": "Solve $5x + 1 = 21$ for $x$.",
+   "difficulty": 0.2,
+   "options": [
+    "$3$",
+    "$4$",
+    "$7$",
+    "$5$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "19",
+   "question": "What is the derivative of $f(x) = 5x^2 + 9x$ evaluated at $x = 2$?",
+   "difficulty": 0.2,
+   "options": [
+    "$34$",
+    "$29$",
+    "$28$",
+    "$32$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "20",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 2 \\\\ 5 & 1 \\end{pmatrix}$.",
+   "difficulty": 0.2,
+   "options": [
+    "$-7$",
+    "$-4$",
+    "$-3$",
+    "$-6$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "21",
+   "question": "Compute $2 \\times 3$.",
+   "difficulty": 0.25,
+   "options": [
+    "$5$",
+    "$9$",
+    "$6$",
+    "$4$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "22",
+   "question": "Solve $2x + 1 = 15$ for $x$.",
+   "difficulty": 0.25,
+   "options": [
+    "$4$",
+    "$9$",
+    "$7$",
+    "$5$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "23",
+   "question": "What is the derivative of $f(x) = 4x^2 + 1x$ evaluated at $x = 2$?",
+   "difficulty": 0.25,
+   "options": [
+    "$20$",
+    "$14$",
+    "$16$",
+    "$17$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "24",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 4 \\\\ 3 & 5 \\end{pmatrix}$.",
+   "difficulty": 0.25,
+   "options": [
+    "$9$",
+    "$11$",
+    "$8$",
+    "$7$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "25",
+   "question": "Compute $7 \\times 7$.",
+   "difficulty": 0.3,
+   "options": [
+    "$50$",
+    "$51$",
+    "$49$",
+    "$44$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "26",
+   "question": "Solve $5x + 9 = 39$ for $x$.",
+   "difficulty": 0.3,
+   "options": [
+    "$7$",
+    "$5$",
+    "$4$",
+    "$6$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "27",
+   "question": "What is the derivative of $f(x) = 4x^2 + 5x$ evaluated at $x = 2$?",
+   "difficulty": 0.3,
+   "options": [
+    "$24$",
+    "$17$",
+    "$21$",
+    "$22$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "28",
+   "question": "Compute the determinant of $\\begin{pmatrix} 1 & 6 \\\\ 4 & 4 \\end{pmatrix}$.",
+   "difficulty": 0.3,
+   "options": [
+    "$-24$",
+    "$-23$",
+    "$-18$",
+    "$-20$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "29",
+   "question": "Compute $5 \\times 5$.",
+   "difficulty": 0.35,
+   "options": [
+    "$25$",
+    "$30$",
+    "$21$",
+    "$24$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "30",
+   "question": "Solve $3x + 7 = 37$ for $x$.",
+   "difficulty": 0.35,
+   "options": [
+    "$7$",
+    "$10$",
+    "$8$",
+    "$9$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "31",
+   "question": "What is the derivative of $f(x) = 2x^2 + 8x$ evaluated at $x = 2$?",
+   "difficulty": 0.35,
+   "options": [
+    "$15$",
+    "$14$",
+    "$19$",
+    "$16$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "32",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 3 \\\\ 5 & 2 \\end{pmatrix}$.",
+   "difficulty": 0.35,
+   "options": [
+    "$-7$",
+    "$-10$",
+    "$-6$",
+    "$-4$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "33",
+   "question": "Compute $12 \\times 7$.",
+   "difficulty": 0.4,
+   "options": [
+    "$84$",
+    "$75$",
+    "$92$",
+    "$83$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "34",
+   "question": "Solve $2x + 9 = 21$ for $x$.",
+   "difficulty": 0.4,
+   "options": [
+    "$4$",
+    "$9$",
+    "$7$",
+    "$6$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "35",
+   "question": "What is the derivative of $f(x) = 2x^2 + 4x$ evaluated at $x = 2$?",
+   "difficulty": 0.4,
+   "options": [
+    "$13$",
+    "$14$",
+    "$12$",
+    "$11$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "36",
+   "question": "Compute the determinant of $\\begin{pmatrix} 3 & 5 \\\\ 4 & 5 \\end{pmatrix}$.",
+   "difficulty": 0.4,
+   "options": [
+    "$-5$",
+    "$-4$",
+    "$-8$",
+    "$-2$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "37",
+   "question": "Compute $11 \\times 11$.",
+   "difficulty": 0.45,
+   "options": [
+    "$138$",
+    "$121$",
+    "$115$",
+    "$120$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "38",
+   "question": "Solve $4x + 14 = 46$ for $x$.",
+   "difficulty": 0.45,
+   "options": [
+    "$7$",
+    "$11$",
+    "$8$",
+    "$10$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "39",
+   "question": "What is the derivative of $f(x) = 5x^2 + 7x$ evaluated at $x = 2$?",
+   "difficulty": 0.45,
+   "options": [
+    "$31$",
+    "$23$",
+    "$25$",
+    "$27$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "40",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 4 \\\\ 1 & 1 \\end{pmatrix}$.",
+   "difficulty": 0.45,
+   "options": [
+    "$1$",
+    "$-3$",
+    "$0$",
+    "$-1$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "41",
+   "question": "Compute $5 \\times 8$.",
+   "difficulty": 0.5,
+   "options": [
+    "$35$",
+    "$40$",
+    "$45$",
+    "$41$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "42",
+   "question": "Solve $7x + 10 = 87$ for $x$.",
+   "difficulty": 0.5,
+   "options": [
+    "$12$",
+    "$13$",
+    "$11$",
+    "$8$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "43",
+   "question": "What is the derivative of $f(x) = 5x^2 + 6x$ evaluated at $x = 2$?",
+   "difficulty": 0.5,
+   "options": [
+    "$25$",
+    "$26$",
+    "$22$",
+    "$27$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "44",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 4 \\\\ 2 & 7 \\end{pmatrix}$.",
+   "difficulty": 0.5,
+   "options": [
+    "$16$",
+    "$19$",
+    "$20$",
+    "$21$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "45",
+   "question": "Compute $14 \\times 9$.",
+   "difficulty": 0.55,
+   "options": [
+    "$135$",
+    "$140$",
+    "$110$",
+    "$126$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "46",
+   "question": "Solve $4x + 1 = 9$ for $x$.",
+   "difficulty": 0.55,
+   "options": [
+    "$0$",
+    "$4$",
+    "$1$",
+    "$2$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "47",
+   "question": "What is the derivative of $f(x) = 3x^2 + 1x$ evaluated at $x = 2$?",
+   "difficulty": 0.55,
+   "options": [
+    "$10$",
+    "$16$",
+    "$11$",
+    "$13$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "48",
+   "question": "Compute the determinant of $\\begin{pmatrix} 3 & 3 \\\\ 8 & 2 \\end{pmatrix}$.",
+   "difficulty": 0.55,
+   "options": [
+    "$-18$",
+    "$-15$",
+    "$-20$",
+    "$-16$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "49",
+   "question": "Compute $6 \\times 6$.",
+   "difficulty": 0.6,
+   "options": [
+    "$34$",
+    "$36$",
+    "$38$",
+    "$35$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "50",
+   "question": "Solve $4x + 10 = 26$ for $x$.",
+   "difficulty": 0.6,
+   "options": [
+    "$2$",
+    "$6$",
+    "$3$",
+    "$4$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "51",
+   "question": "What is the derivative of $f(x) = 4x^2 + 14x$ evaluated at $x = 2$?",
+   "difficulty": 0.6,
+   "options": [
+    "$32$",
+    "$35$",
+    "$30$",
+    "$33$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "52",
+   "question": "Compute the determinant of $\\begin{pmatrix} 8 & 6 \\\\ 9 & 1 \\end{pmatrix}$.",
+   "difficulty": 0.6,
+   "options": [
+    "$-42$",
+    "$-46$",
+    "$-50$",
+    "$-49$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "53",
+   "question": "Compute $7 \\times 5$.",
+   "difficulty": 0.65,
+   "options": [
+    "$35$",
+    "$36$",
+    "$39$",
+    "$29$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "54",
+   "question": "Solve $5x + 15 = 45$ for $x$.",
+   "difficulty": 0.65,
+   "options": [
+    "$6$",
+    "$3$",
+    "$4$",
+    "$9$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "55",
+   "question": "What is the derivative of $f(x) = 2x^2 + 7x$ evaluated at $x = 2$?",
+   "difficulty": 0.65,
+   "options": [
+    "$16$",
+    "$13$",
+    "$15$",
+    "$18$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "56",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 9 \\\\ 7 & 5 \\end{pmatrix}$.",
+   "difficulty": 0.65,
+   "options": [
+    "$-39$",
+    "$-43$",
+    "$-44$",
+    "$-37$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "57",
+   "question": "Compute $10 \\times 13$.",
+   "difficulty": 0.7,
+   "options": [
+    "$130$",
+    "$121$",
+    "$137$",
+    "$128$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "58",
+   "question": "Solve $10x + 8 = 48$ for $x$.",
+   "difficulty": 0.7,
+   "options": [
+    "$7$",
+    "$4$",
+    "$6$",
+    "$3$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "59",
+   "question": "What is the derivative of $f(x) = 10x^2 + 4x$ evaluated at $x = 2$?",
+   "difficulty": 0.7,
+   "options": [
+    "$42$",
+    "$50$",
+    "$47$",
+    "$44$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "60",
+   "question": "Compute the determinant of $\\begin{pmatrix} 7 & 7 \\\\ 10 & 8 \\end{pmatrix}$.",
+   "difficulty": 0.7,
+   "options": [
+    "$-12$",
+    "$-17$",
+    "$-14$",
+    "$-11$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "61",
+   "question": "Compute $17 \\times 18$.",
+   "difficulty": 0.75,
+   "options": [
+    "$277$",
+    "$316$",
+    "$306$",
+    "$338$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "62",
+   "question": "Solve $7x + 16 = 23$ for $x$.",
+   "difficulty": 0.75,
+   "options": [
+    "$-2$",
+    "$1$",
+    "$2$",
+    "$-1$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "63",
+   "question": "What is the derivative of $f(x) = 4x^2 + 19x$ evaluated at $x = 2$?",
+   "difficulty": 0.75,
+   "options": [
+    "$41$",
+    "$35$",
+    "$31$",
+    "$37$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "64",
+   "question": "Compute the determinant of $\\begin{pmatrix} 6 & 7 \\\\ 7 & 3 \\end{pmatrix}$.",
+   "difficulty": 0.75,
+   "options": [
+    "$-31$",
+    "$-29$",
+    "$-33$",
+    "$-28$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "65",
+   "question": "Compute $14 \\times 9$.",
+   "difficulty": 0.8,
+   "options": [
+    "$128$",
+    "$126$",
+    "$124$",
+    "$111$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "66",
+   "question": "Solve $7x + 2 = 44$ for $x$.",
+   "difficulty": 0.8,
+   "options": [
+    "$6$",
+    "$9$",
+    "$3$",
+    "$5$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "67",
+   "question": "What is the derivative of $f(x) = 9x^2 + 2x$ evaluated at $x = 2$?",
+   "difficulty": 0.8,
+   "options": [
+    "$43$",
+    "$42$",
+    "$38$",
+    "$44$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "68",
+   "question": "Compute the determinant of $\\begin{pmatrix} 5 & 1 \\\\ 1 & 1 \\end{pmatrix}$.",
+   "difficulty": 0.8,
+   "options": [
+    "$1$",
+    "$4$",
+    "$2$",
+    "$3$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "69",
+   "question": "Compute $16 \\times 8$.",
+   "difficulty": 0.85,
+   "options": [
+    "$128$",
+    "$132$",
+    "$117$",
+    "$146$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "70",
+   "question": "Solve $10x + 2 = 12$ for $x$.",
+   "difficulty": 0.85,
+   "options": [
+    "$1$",
+    "$0$",
+    "$2$",
+    "$-1$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "71",
+   "question": "What is the derivative of $f(x) = 6x^2 + 17x$ evaluated at $x = 2$?",
+   "difficulty": 0.85,
+   "options": [
+    "$44$",
+    "$40$",
+    "$46$",
+    "$41$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "72",
+   "question": "Compute the determinant of $\\begin{pmatrix} 8 & 8 \\\\ 1 & 7 \\end{pmatrix}$.",
+   "difficulty": 0.85,
+   "options": [
+    "$56$",
+    "$50$",
+    "$48$",
+    "$46$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "73",
+   "question": "Compute $15 \\times 8$.",
+   "difficulty": 0.9,
+   "options": [
+    "$123$",
+    "$120$",
+    "$133$",
+    "$114$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "74",
+   "question": "Solve $6x + 12 = 42$ for $x$.",
+   "difficulty": 0.9,
+   "options": [
+    "$5$",
+    "$8$",
+    "$7$",
+    "$2$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "75",
+   "question": "What is the derivative of $f(x) = 9x^2 + 17x$ evaluated at $x = 2$?",
+   "difficulty": 0.9,
+   "options": [
+    "$57$",
+    "$51$",
+    "$58$",
+    "$53$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "76",
+   "question": "Compute the determinant of $\\begin{pmatrix} 4 & 4 \\\\ 5 & 12 \\end{pmatrix}$.",
+   "difficulty": 0.9,
+   "options": [
+    "$29$",
+    "$23$",
+    "$28$",
+    "$24$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "77",
+   "question": "Compute $9 \\times 23$.",
+   "difficulty": 0.95,
+   "options": [
+    "$229$",
+    "$204$",
+    "$207$",
+    "$215$"
+   ],
+   "correct_answer": 2
+  },
+  {
+   "id": "78",
+   "question": "Solve $9x + 10 = 199$ for $x$.",
+   "difficulty": 0.95,
+   "options": [
+    "$19$",
+    "$21$",
+    "$22$",
+    "$18$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "79",
+   "question": "What is the derivative of $f(x) = 4x^2 + 17x$ evaluated at $x = 2$?",
+   "difficulty": 0.95,
+   "options": [
+    "$33$",
+    "$36$",
+    "$31$",
+    "$29$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "80",
+   "question": "Compute the determinant of $\\begin{pmatrix} 2 & 10 \\\\ 1 & 9 \\end{pmatrix}$.",
+   "difficulty": 0.95,
+   "options": [
+    "$8$",
+    "$5$",
+    "$7$",
+    "$10$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "81",
+   "question": "Compute $19 \\times 12$.",
+   "difficulty": 1.0,
+   "options": [
+    "$228$",
+    "$219$",
+    "$251$",
+    "$208$"
+   ],
+   "correct_answer": 0
+  },
+  {
+   "id": "82",
+   "question": "Solve $2x + 7 = 33$ for $x$.",
+   "difficulty": 1.0,
+   "options": [
+    "$11$",
+    "$13$",
+    "$16$",
+    "$10$"
+   ],
+   "correct_answer": 1
+  },
+  {
+   "id": "83",
+   "question": "What is the derivative of $f(x) = 9x^2 + 21x$ evaluated at $x = 2$?",
+   "difficulty": 1.0,
+   "options": [
+    "$59$",
+    "$56$",
+    "$53$",
+    "$57$"
+   ],
+   "correct_answer": 3
+  },
+  {
+   "id": "84",
+   "question": "Compute the determinant of $\\begin{pmatrix} 3 & 4 \\\\ 8 & 7 \\end{pmatrix}$.",
+   "difficulty": 1.0,
+   "options": [
+    "$-10$",
+    "$-11$",
+    "$-13$",
+    "$-8$"
+   ],
+   "correct_answer": 1
+  }
+ ]
+}
