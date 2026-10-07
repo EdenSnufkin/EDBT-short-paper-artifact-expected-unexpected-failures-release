@@ -1,0 +1,180 @@
+question_index,item_id,topic,source_topic,difficulty
+0,1,Maths,Fundamental Mathematics,0.15
+1,2,Maths,Fundamental Mathematics,0.0
+2,3,Maths,Fundamental Mathematics,0.05
+3,4,Maths,Fundamental Mathematics,0.05
+4,5,Maths,Fundamental Mathematics,0.15
+5,6,Maths,Fundamental Mathematics,0.15
+6,7,Maths,Fundamental Mathematics,0.2
+7,8,Maths,Fundamental Mathematics,0.0
+8,9,Maths,Fundamental Mathematics,0.3
+9,10,Maths,Fundamental Mathematics,0.2
+10,11,Maths,Fundamental Mathematics,0.05
+11,12,Maths,Fundamental Mathematics,0.3
+12,13,Maths,Fundamental Mathematics,0.2
+13,14,Maths,Fundamental Mathematics,0.25
+14,15,Maths,Fundamental Mathematics,0.55
+15,16,Maths,Fundamental Mathematics,0.5
+16,17,Maths,Fundamental Mathematics,0.45
+17,18,Maths,Fundamental Mathematics,0.5
+18,19,Maths,Fundamental Mathematics,0.35
+19,20,Maths,Fundamental Mathematics,0.4
+20,21,Maths,Fundamental Mathematics,0.55
+21,22,Maths,Fundamental Mathematics,0.55
+22,23,Maths,Fundamental Mathematics,0.25
+23,24,Maths,Fundamental Mathematics,0.45
+24,25,Maths,Fundamental Mathematics,1.0
+25,26,Maths,Fundamental Mathematics,0.85
+26,27,Maths,Fundamental Mathematics,0.8
+27,28,Maths,Fundamental Mathematics,0.2
+28,29,Maths,Fundamental Mathematics,0.35
+29,30,Maths,Fundamental Mathematics,0.5
+30,31,Maths,Fundamental Mathematics,0.55
+31,32,Maths,Fundamental Mathematics,0.35
+32,33,Maths,Fundamental Mathematics,0.5
+33,34,Maths,Fundamental Mathematics,0.4
+34,35,Maths,Fundamental Mathematics,0.5
+35,36,Maths,Fundamental Mathematics,0.5
+36,37,Maths,Fundamental Mathematics,0.55
+37,38,Maths,Fundamental Mathematics,0.3
+38,39,Maths,Fundamental Mathematics,0.35
+39,40,Maths,Fundamental Mathematics,0.1
+40,41,Maths,Fundamental Mathematics,0.35
+41,42,Maths,Fundamental Mathematics,0.2
+42,43,Maths,Fundamental Mathematics,0.25
+43,44,Maths,Fundamental Mathematics,0.25
+44,45,Maths,Fundamental Mathematics,0.2
+45,46,Maths,Fundamental Mathematics,0.25
+46,47,Maths,Fundamental Mathematics,0.2
+47,48,Maths,Fundamental Mathematics,0.25
+48,49,Maths,Fundamental Mathematics,0.55
+49,50,Maths,Fundamental Mathematics,0.25
+50,51,Maths,Fundamental Mathematics,0.25
+51,52,Maths,Fundamental Mathematics,0.25
+52,53,Maths,Fundamental Mathematics,0.25
+53,54,Maths,Fundamental Mathematics,0.6
+54,55,Maths,Fundamental Mathematics,0.35
+55,56,Maths,Fundamental Mathematics,0.7
+56,57,Maths,Fundamental Mathematics,0.45
+57,58,Maths,Fundamental Mathematics,0.55
+58,59,Maths,Fundamental Mathematics,0.45
+59,60,Maths,Fundamental Mathematics,0.5
+60,61,Maths,Fundamental Mathematics,0.6
+61,62,Maths,Fundamental Mathematics,0.55
+62,63,Maths,Fundamental Mathematics,0.5
+63,64,Maths,Fundamental Mathematics,0.55
+64,65,Maths,Fundamental Mathematics,0.55
+65,66,Maths,Fundamental Mathematics,0.55
+66,67,Maths,Fundamental Mathematics,0.45
+67,68,Maths,Fundamental Mathematics,0.4
+68,69,Maths,Fundamental Mathematics,0.45
+69,70,Maths,Fundamental Mathematics,0.45
+70,71,Maths,Fundamental Mathematics,0.45
+71,72,Maths,Fundamental Mathematics,0.6
+72,73,Maths,Fundamental Mathematics,0.6
+73,74,Maths,Fundamental Mathematics,0.45
+74,75,Maths,Fundamental Mathematics,0.55
+75,76,Maths,Fundamental Mathematics,0.5
+76,77,Maths,Fundamental Mathematics,0.6
+77,78,Maths,Fundamental Mathematics,0.5
+78,79,Maths,Fundamental Mathematics,0.85
+79,80,Maths,Fundamental Mathematics,0.85
+80,81,Maths,Fundamental Mathematics,0.5
+81,82,Maths,Fundamental Mathematics,0.45
+82,83,Maths,Fundamental Mathematics,0.5
+83,84,Maths,Fundamental Mathematics,0.6
+84,85,Maths,Fundamental Mathematics,0.7
+85,86,Maths,Fundamental Mathematics,0.65
+86,87,Maths,Fundamental Mathematics,0.8
+87,88,Maths,Fundamental Mathematics,0.5
+88,89,Maths,Fundamental Mathematics,0.6
+89,90,Maths,Fundamental Mathematics,0.4
+90,91,Maths,Fundamental Mathematics,0.0
+91,92,Maths,Fundamental Mathematics,0.15
+92,93,Maths,Fundamental Mathematics,0.95
+93,94,Maths,Fundamental Mathematics,0.1
+94,95,Maths,Fundamental Mathematics,0.0
+95,96,Maths,Fundamental Mathematics,0.5
+96,97,Maths,Fundamental Mathematics,0.8
+97,98,Maths,Fundamental Mathematics,0.7
+98,99,Maths,Fundamental Mathematics,0.6
+99,100,Maths,Fundamental Mathematics,0.35
+100,101,Maths,Fundamental Mathematics,0.2
+101,102,Maths,Fundamental Mathematics,0.35
+102,103,Maths,Fundamental Mathematics,0.95
+103,104,Maths,Fundamental Mathematics,0.9
+104,105,Maths,Fundamental Mathematics,0.25
+105,106,Maths,Fundamental Mathematics,0.35
+106,107,Maths,Fundamental Mathematics,0.4
+107,108,Maths,Fundamental Mathematics,0.5
+108,109,Maths,Fundamental Mathematics,0.3
+109,110,Maths,Differentiation,0.2
+110,111,Maths,Differentiation,0.4
+111,112,Maths,Differentiation,0.05
+112,113,Maths,Differentiation,0.1
+113,114,Maths,Differentiation,0.05
+114,115,Maths,Differentiation,0.6
+115,116,Maths,Differentiation,0.35
+116,117,Maths,Differentiation,0.25
+117,118,Maths,Differentiation,0.35
+118,119,Maths,Differentiation,0.5
+119,120,Maths,Differentiation,0.05
+120,121,Maths,Differentiation,0.15
+121,122,Maths,Differentiation,0.5
+122,123,Maths,Differentiation,0.55
+123,124,Maths,Differentiation,0.1
+124,125,Maths,Differentiation,0.0
+125,126,Maths,Differentiation,0.25
+126,127,Maths,Differentiation,0.6
+127,128,Maths,Differentiation,0.8
+128,129,Maths,Differentiation,0.6
+129,130,Maths,Differentiation,0.15
+130,131,Maths,Differentiation,0.25
+131,132,Maths,Differentiation,0.0
+132,133,Maths,Differentiation,0.8
+133,134,Maths,Differentiation,0.6
+134,135,Maths,Differentiation,0.6
+135,136,Maths,Differentiation,0.7
+136,137,Maths,Differentiation,0.4
+137,138,Maths,Differentiation,0.55
+138,139,Maths,Differentiation,0.75
+139,140,Maths,Differentiation,0.45
+140,141,Maths,Differentiation,0.9
+141,142,Maths,Differentiation,0.9
+142,143,Maths,Differentiation,0.25
+143,144,Maths,Differentiation,0.15
+144,145,Maths,Differentiation,0.1
+145,146,Maths,Differentiation,0.05
+146,147,Maths,Differentiation,0.3
+147,148,Maths,Differentiation,0.75
+148,149,Maths,Differentiation,0.25
+149,150,Maths,Differentiation,0.25
+150,151,Maths,Differentiation,0.6
+151,152,Maths,Differentiation,0.55
+152,153,Maths,Differentiation,0.9
+153,154,Maths,Differentiation,0.3
+154,155,Maths,Differentiation,0.4
+155,156,Maths,Differentiation,0.85
+156,157,Maths,Differentiation,0.65
+157,158,Maths,Differentiation,0.7
+158,159,Maths,Differentiation,0.85
+159,160,Maths,Differentiation,0.25
+160,161,Maths,Differentiation,0.4
+161,162,Maths,Differentiation,0.75
+162,163,Maths,Differentiation,0.05
+163,164,Maths,Differentiation,0.6
+164,165,Maths,Differentiation,0.95
+165,166,Maths,Differentiation,0.4
+166,167,Maths,Differentiation,0.85
+167,168,Maths,Differentiation,0.15
+168,169,Maths,Differentiation,0.05
+169,170,Maths,Differentiation,0.25
+170,171,Maths,Differentiation,0.4
+171,172,Maths,Differentiation,0.3
+172,173,Maths,Differentiation,0.3
+173,174,Maths,Differentiation,0.15
+174,175,Maths,Differentiation,0.35
+175,176,Maths,Differentiation,0.05
+176,177,Maths,Differentiation,0.2
+177,178,Maths,Differentiation,0.9
+178,179,Maths,Differentiation,0.9
