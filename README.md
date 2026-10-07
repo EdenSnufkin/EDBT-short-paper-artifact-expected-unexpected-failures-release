@@ -92,22 +92,6 @@ The private databases are linked to participant accounts, so the released copies
 
 The notebook gives the same results on the anonymised data as on the original data (all figures are pixel-identical and all quoted numbers match).
 
-## Citation
-
-If you use this code, data or figures, please cite the paper:
-
-```bibtex
-@inproceedings{gautier2027failure,
-  author    = {Gautier, Eden and Martineau, Cl{\'e}ment and Ibrahim, Noha and Amer-Yahia, Sihem},
-  title     = {On the Importance of Modeling Failure in Educational Recommender Systems},
-  booktitle = {Proceedings of the 30th International Conference on Extending Database Technology (EDBT 2027)},
-  address   = {Lille, France},
-  month     = apr,
-  year      = {2027},
-  note      = {Short paper. Code, data and figures: https://github.com/EdenSnufkin/EDBT-short-paper-artifact-expected-unexpected-failures-release}
-}
-```
-
 ## License
 
 * **Code** (`src/`, `recommender/`, `webapp/`, `tools/`, `notebooks/`): [Apache License 2.0](LICENSE).
