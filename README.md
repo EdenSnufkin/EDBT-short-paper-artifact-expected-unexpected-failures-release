@@ -37,6 +37,7 @@ webapp/                         the Streamlit application of the study, on top o
 tools/run_notebook.py           executes the notebook headlessly
 tools/anonymize_data.py         how the released data were derived from the private study databases
 requirements.txt                tested package versions
+LICENSE, LICENSE-DATA.txt       Apache-2.0 (code) and CC BY 4.0 (data, figures)
 ```
 
 ### The notebook
@@ -93,10 +94,21 @@ The notebook gives the same results on the anonymised data as on the original da
 
 ## Citation
 
-```
-TODO: add the BibTeX entry of the paper once the reference is final.
+If you use this code, data or figures, please cite the paper:
+
+```bibtex
+@inproceedings{gautier2027failure,
+  author    = {Gautier, Eden and Martineau, Cl{\'e}ment and Ibrahim, Noha and Amer-Yahia, Sihem},
+  title     = {On the Importance of Modeling Failure in Educational Recommender Systems},
+  booktitle = {Proceedings of the 30th International Conference on Extending Database Technology (EDBT 2027)},
+  address   = {Lille, France},
+  month     = apr,
+  year      = {2027},
+  note      = {Short paper. Code, data and figures: https://github.com/EdenSnufkin/EDBT-short-paper-artifact-expected-unexpected-failures-release}
+}
 ```
 
 ## License
 
-TODO: choose a license for the code and one for the data before publishing the repository.
+* **Code** (`src/`, `recommender/`, `webapp/`, `tools/`, `notebooks/`): [Apache License 2.0](LICENSE).
+* **Data and figures** (`data/`, `figures/`): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DATA.txt).
